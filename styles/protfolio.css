@@ -10,11 +10,28 @@
  .text-praimary{
     color: #FD6E0A;
  }
+ .drak-2{
+    color: #474747;
+ }
 /* nav style */
 nav{
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .nav-title{
     font-weight: 800px;
     font-size: 45px;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 50px;
+
+}
+nav ul a{
+    text-decoration: none;
+    font-size: 20px;
+}
+nav ul{
+    display: flex;
 }
