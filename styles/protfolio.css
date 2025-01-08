@@ -10,7 +10,7 @@
   *{
     margin-left: 0px;
     margin-right: 0;
-  s 
+   
   }
  /* shared style */
  .text-praimary{
@@ -24,6 +24,13 @@
     background-repeat: no-repeat;
     background-position: top left, bottom right;
     background-color: #FFF8F3;
+    position: relative;
+    height: 837px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 3419px;
+    margin-top: 0;
  }
 /* nav style */
 nav{
@@ -88,5 +95,5 @@ nav ul{
 }
 .banner-profile-pic{
     width: 580px;
-    
+    height: 685px;
 }
