@@ -90,11 +90,13 @@
   .banner-greetings{
       font-size: 45px;
       font-weight: 600;
+      margin-bottom: 20px;
   }
   
   .banner-title{
       font-weight: bold;
       font-size: 85px;
+      margin: 20px 0 20px 0;
   }
   .banner-profile-pic{
       width: 580px;
