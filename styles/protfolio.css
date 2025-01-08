@@ -188,5 +188,67 @@ main{
     line-height: 28px;
     letter-spacing: 0%;
     text-align: left;
-    
+}
+/* resume styles */
+.resume-container{
+    margin-bottom: 130px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 0px;
+}
+.resume-colulmn{
+    width: 511px;
+    height: 175px;
+}
+.summary{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+.resume-column-title{
+   color: rgb(71, 71, 71);
+   font-family: Open Sans;
+   font-size: 30px;
+   font-weight: 700;
+   line-height: 41px;
+   letter-spacing: 0%;
+   text-align: left;
+}
+.experienace-title{
+    color: rgb(71, 71, 71);
+    font-family: Open Sans;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.experienace-sub-title{
+    color: rgb(117, 117, 117);
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.exprience-description{
+    color: rgb(117, 117, 117);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.resume hr{
+    /* Dark 05 */
+    border: 1px solid rgb(209, 209, 209);
+    margin: 20px 0 20px 0;
+}
+.resume-download-cv{
+    margin-top: 50px;
 }
